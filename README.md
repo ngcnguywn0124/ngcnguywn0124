@@ -174,6 +174,10 @@ const aboutMe = {
 <div align="center">
 
 ### 📚 Chứng chỉ đang theo đuổi:
+
+</div>
+<div align="left">
+  
 - 🎯 **AWS Certified Developer Associate**
 - 🎯 **Google Cloud Professional Developer**  
 - 🎯 **Microsoft Azure Fundamentals**
