@@ -1,4 +1,4 @@
-# 👋 Xin chào, tôi là NguyenQuyNgoc (Sad3esuy)
+# 👋 Xin chào, tôi là NguyenQuyNgoc (Sadmesuy)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;Problem+Solver;Always+Learning" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 ```typescript
 const aboutMe = {
     name: "Nguyen Quy Ngoc",
-    nickname: "Sad3esuy",
+    nickname: "Sadmesuy",
     role: "Full Stack Developer",
     location: "Hồ Chí Minh, Việt Nam",
     languages: ["Vietnamese", "English"],
@@ -150,7 +150,7 @@ const aboutMe = {
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🎓_Student-University-blue?style=for-the-badge&logo=academia&logoColor=white" />
 <br><b>Software Engineering</b>
-<br><i>Đại học Công nghệ</i>
+<br><i>Đại học Công nghệ Tp.HCM</i>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🏅_Developer-Active-green?style=for-the-badge&logo=github&logoColor=white" />
