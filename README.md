@@ -1,4 +1,4 @@
-# Nguyen Quy Ngoc
+# Xin chào! Tôi là Nguyen Quy Ngoc
 
 Full Stack Developer · Software Engineering student at HUTECH, Ho Chi Minh City.
 
@@ -25,10 +25,10 @@ Full Stack Developer · Software Engineering student at HUTECH, Ho Chi Minh City
 ## Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sad3esuy&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sad3esuy&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=6"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ngcnguywn0124&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngcnguywn0124&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=6"/>
 </div>
 
 ---
 
-📧 [nguyenquyngoc2004@gmail.com](mailto:nguyenquyngoc2004@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sad3esuy/) · 🌐 [Portfolio](https://sad3esuy.github.io/sad3esuyy_portfolio/)
+📧 [nguyenquyngoc2004@gmail.com](mailto:nguyenquyngoc2004@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/ngcnguywn0124/) · 🌐 [Portfolio](https://ngcnguywn0124.github.io/sad3esuyy_portfolio/)
